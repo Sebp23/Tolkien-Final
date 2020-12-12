@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/MainMenu.unity
+- path: C:/Users/eldri/Desktop/Last Tank on Earth/Assets/Scenes/Intro.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
