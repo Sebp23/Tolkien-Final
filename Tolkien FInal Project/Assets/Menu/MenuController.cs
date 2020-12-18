@@ -9,7 +9,7 @@ public class MenuController : MonoBehaviour
     public static void playButton()
     {
         //loads help scene
-        SceneManager.LoadScene(1);
+        SceneManager.LoadScene("HelpMenu");
     }
 
     public static void quitButton()
@@ -21,6 +21,6 @@ public class MenuController : MonoBehaviour
     public static void startGame()
     {
         //loads the game scene
-        SceneManager.LoadScene(2);
+        SceneManager.LoadScene("GameScene");
     }
 }
