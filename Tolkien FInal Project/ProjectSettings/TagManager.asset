@@ -46,6 +46,9 @@ TagManager:
   - name: floor
     uniqueID: 3357369997
     locked: 0
+  - name: doom
+    uniqueID: 8520213
+    locked: 0
   - name: objects
     uniqueID: 2210826751
     locked: 0

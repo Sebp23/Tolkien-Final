@@ -286,7 +286,7 @@ GameObject:
   - component: {fileID: 390114083}
   - component: {fileID: 390114082}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: CastItIntoFire
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -308,7 +308,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -39, y: 0}
+  m_AnchoredPosition: {x: -54.3, y: -316.2}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 1}
 --- !u!114 &390114082
@@ -365,7 +365,7 @@ MonoBehaviour:
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 256
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -574,7 +574,7 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: -2084140545
+  m_SortingLayerID: 8520213
   m_SortingLayer: 2
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: dcdba05620c3e6a48869497459ffa243, type: 3}
@@ -641,6 +641,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spacebarPrompt: {fileID: 872053030}
+  doomText: {fileID: 390114080}
 --- !u!1 &872053030
 GameObject:
   m_ObjectHideFlags: 0
@@ -710,7 +711,7 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -2084140545
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: e16902c037c685a48b3aa0be52b72378, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
@@ -1697,14 +1698,14 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: -2084140545
-  m_SortingLayer: 2
+  m_SortingLayer: 3
   m_SortingOrder: 0
-  m_Sprite: {fileID: 6962493805938953987, guid: fbb59392c3a61d44ea76780e3946ac13, type: 3}
+  m_Sprite: {fileID: 2436297529466492623, guid: fbb59392c3a61d44ea76780e3946ac13, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.16, y: 0.16}
+  m_Size: {x: 0.13, y: 0.16}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -1742,8 +1743,8 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 0.14, y: 0.16}
-    newSize: {x: 0.16, y: 0.16}
+    oldSize: {x: 0.13, y: 0.16}
+    newSize: {x: 0.13, y: 0.16}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
     adaptiveTiling: 0
