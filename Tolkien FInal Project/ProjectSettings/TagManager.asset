@@ -6,6 +6,7 @@ TagManager:
   tags:
   - FloorEdge
   - LevelEnd
+  - Sauron
   layers:
   - Default
   - TransparentFX
@@ -51,4 +52,7 @@ TagManager:
     locked: 0
   - name: objects
     uniqueID: 2210826751
+    locked: 0
+  - name: sauron
+    uniqueID: 562466137
     locked: 0
