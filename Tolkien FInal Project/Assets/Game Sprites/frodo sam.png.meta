@@ -1,7 +1,79 @@
 fileFormatVersion: 2
 guid: fbb59392c3a61d44ea76780e3946ac13
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 6962493805938953987
+    second: frodo sam_0
+  - first:
+      213: -3229582630223404816
+    second: frodo sam_1
+  - first:
+      213: -1109876259571560889
+    second: frodo sam_2
+  - first:
+      213: -5380986751525713879
+    second: frodo sam_3
+  - first:
+      213: 281447292872827675
+    second: frodo sam_4
+  - first:
+      213: 6475371236285841459
+    second: frodo sam_5
+  - first:
+      213: -8078592979896362373
+    second: frodo sam_6
+  - first:
+      213: 5812541786331907704
+    second: frodo sam_7
+  - first:
+      213: 692867027861455312
+    second: frodo sam_8
+  - first:
+      213: 7144008782757794393
+    second: frodo sam_9
+  - first:
+      213: 772642034447933570
+    second: frodo sam_10
+  - first:
+      213: -8887672773738530183
+    second: frodo sam_11
+  - first:
+      213: -7942999968021313663
+    second: frodo sam_12
+  - first:
+      213: -4376464863334533197
+    second: frodo sam_13
+  - first:
+      213: 2788084131264256909
+    second: frodo sam_14
+  - first:
+      213: 1301083793624674709
+    second: frodo sam_15
+  - first:
+      213: 1535499261183385702
+    second: frodo sam_16
+  - first:
+      213: -7836159494067331425
+    second: frodo sam_17
+  - first:
+      213: 2436297529466492623
+    second: frodo sam_18
+  - first:
+      213: -358813683735445289
+    second: frodo sam_19
+  - first:
+      213: -5745115123313939839
+    second: frodo sam_20
+  - first:
+      213: -2538901169336476445
+    second: frodo sam_21
+  - first:
+      213: -314660930424676088
+    second: frodo sam_22
+  - first:
+      213: -8149950435656875634
+    second: frodo sam_23
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -41,7 +113,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -73,9 +145,549 @@ TextureImporter:
     overridden: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: frodo sam_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 52
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30f49d54a3fbf9060800000000000000
+      internalID: 6962493805938953987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 52
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f023c875b73e23d0800000000000000
+      internalID: -3229582630223404816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 52
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e099b1c6de890f0800000000000000
+      internalID: -1109876259571560889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 52
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9280a362f05e255b0800000000000000
+      internalID: -5380986751525713879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_4
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 52
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b132eaa52d6e7e300800000000000000
+      internalID: 281447292872827675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_5
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 52
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3308997d4d32dd950800000000000000
+      internalID: 6475371236285841459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_6
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 35
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7a105cac7213ef80800000000000000
+      internalID: -8078592979896362373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_7
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 35
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8768d6065fb4aa050800000000000000
+      internalID: 5812541786331907704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 35
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1434014ee8d9900800000000000000
+      internalID: 692867027861455312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_9
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 35
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9529c88232e942360800000000000000
+      internalID: 7144008782757794393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_10
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 35
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280edc136d9f8ba00800000000000000
+      internalID: 772642034447933570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_11
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 35
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a776183b4a8a480800000000000000
+      internalID: -8887672773738530183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 18
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1878627ec9bc4c190800000000000000
+      internalID: -7942999968021313663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_13
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 18
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b777f0f46ca343c0800000000000000
+      internalID: -4376464863334533197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_14
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 18
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8bd8e7deb341b620800000000000000
+      internalID: 2788084131264256909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_15
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 18
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 591340e11d06e0210800000000000000
+      internalID: 1301083793624674709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_16
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 18
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660e5bf41703f4510800000000000000
+      internalID: 1535499261183385702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_17
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 18
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9edfc8357e504390800000000000000
+      internalID: -7836159494067331425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc6130be1b77fc120800000000000000
+      internalID: 2436297529466492623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d046601bdc350bf0800000000000000
+      internalID: -358813683735445289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ae529fb304540b0800000000000000
+      internalID: -5745115123313939839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_21
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec10e196d204ccd0800000000000000
+      internalID: -2538901169336476445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801e7590d8912abf0800000000000000
+      internalID: -314660930424676088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: frodo sam_23
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81c1a1524f85ee80800000000000000
+      internalID: -8149950435656875634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
