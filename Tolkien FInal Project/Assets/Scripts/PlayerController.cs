@@ -9,7 +9,7 @@ public class PlayerController : MonoBehaviour
     private float movementSpeed = 5f;
 
     public Rigidbody2D playerRB;
-    private Vector2 input;
+    public Vector2 input;
     private Vector3 movement;
     private Animator anim;
 
