@@ -10,7 +10,7 @@ public class EnemyTrigger : MonoBehaviour
         if (collision.CompareTag("Sauron"))
         {
             Debug.Log("Dead!");
-            SceneManager.LoadScene("Death Screen");
+            SceneManager.LoadScene("DeathScreen");
         }
     }
 }
