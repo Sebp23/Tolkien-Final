@@ -8,10 +8,10 @@ public class EnemyController : MonoBehaviour
     private float speed;
 
     [SerializeField]
-    public float positiveXBorder;
+    private float positiveXBorder;
 
     [SerializeField]
-    public float negativeXBorder;
+    private float negativeXBorder;
 
     private bool dirRight = true;
 

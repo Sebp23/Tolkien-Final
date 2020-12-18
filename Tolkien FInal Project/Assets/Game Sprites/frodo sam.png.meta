@@ -188,8 +188,8 @@ TextureImporter:
       name: frodo sam_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 52
+        x: 2
+        y: 48
         width: 14
         height: 16
       alignment: 0
@@ -209,8 +209,8 @@ TextureImporter:
       name: frodo sam_1
       rect:
         serializedVersion: 2
-        x: 20
-        y: 52
+        x: 18
+        y: 48
         width: 14
         height: 16
       alignment: 0
@@ -230,8 +230,8 @@ TextureImporter:
       name: frodo sam_2
       rect:
         serializedVersion: 2
-        x: 37
-        y: 52
+        x: 34
+        y: 48
         width: 14
         height: 16
       alignment: 0
@@ -251,11 +251,11 @@ TextureImporter:
       name: frodo sam_3
       rect:
         serializedVersion: 2
-        x: 54
-        y: 52
+        x: 50
+        y: 48
         width: 14
         height: 16
-      alignment: 0
+      alignment: 9
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
@@ -272,8 +272,8 @@ TextureImporter:
       name: frodo sam_4
       rect:
         serializedVersion: 2
-        x: 71
-        y: 52
+        x: 66
+        y: 48
         width: 14
         height: 16
       alignment: 0
@@ -293,8 +293,8 @@ TextureImporter:
       name: frodo sam_5
       rect:
         serializedVersion: 2
-        x: 88
-        y: 52
+        x: 82
+        y: 48
         width: 14
         height: 16
       alignment: 0
@@ -314,8 +314,8 @@ TextureImporter:
       name: frodo sam_6
       rect:
         serializedVersion: 2
-        x: 1
-        y: 35
+        x: 0
+        y: 32
         width: 14
         height: 16
       alignment: 0
@@ -335,8 +335,8 @@ TextureImporter:
       name: frodo sam_7
       rect:
         serializedVersion: 2
-        x: 18
-        y: 35
+        x: 16
+        y: 32
         width: 14
         height: 16
       alignment: 0
@@ -356,8 +356,8 @@ TextureImporter:
       name: frodo sam_8
       rect:
         serializedVersion: 2
-        x: 35
-        y: 35
+        x: 32
+        y: 32
         width: 14
         height: 16
       alignment: 0
@@ -377,8 +377,8 @@ TextureImporter:
       name: frodo sam_9
       rect:
         serializedVersion: 2
-        x: 52
-        y: 35
+        x: 48
+        y: 32
         width: 14
         height: 16
       alignment: 0
@@ -398,8 +398,8 @@ TextureImporter:
       name: frodo sam_10
       rect:
         serializedVersion: 2
-        x: 69
-        y: 35
+        x: 64
+        y: 32
         width: 14
         height: 16
       alignment: 0
@@ -419,8 +419,8 @@ TextureImporter:
       name: frodo sam_11
       rect:
         serializedVersion: 2
-        x: 86
-        y: 35
+        x: 80
+        y: 32
         width: 14
         height: 16
       alignment: 0
@@ -440,8 +440,8 @@ TextureImporter:
       name: frodo sam_12
       rect:
         serializedVersion: 2
-        x: 3
-        y: 18
+        x: 2
+        y: 16
         width: 13
         height: 16
       alignment: 0
@@ -461,8 +461,8 @@ TextureImporter:
       name: frodo sam_13
       rect:
         serializedVersion: 2
-        x: 20
-        y: 18
+        x: 18
+        y: 16
         width: 13
         height: 16
       alignment: 0
@@ -482,8 +482,8 @@ TextureImporter:
       name: frodo sam_14
       rect:
         serializedVersion: 2
-        x: 37
-        y: 18
+        x: 34
+        y: 16
         width: 13
         height: 16
       alignment: 0
@@ -503,8 +503,8 @@ TextureImporter:
       name: frodo sam_15
       rect:
         serializedVersion: 2
-        x: 54
-        y: 18
+        x: 50
+        y: 16
         width: 13
         height: 16
       alignment: 0
@@ -524,8 +524,8 @@ TextureImporter:
       name: frodo sam_16
       rect:
         serializedVersion: 2
-        x: 71
-        y: 18
+        x: 66
+        y: 16
         width: 13
         height: 16
       alignment: 0
@@ -545,8 +545,8 @@ TextureImporter:
       name: frodo sam_17
       rect:
         serializedVersion: 2
-        x: 88
-        y: 18
+        x: 82
+        y: 16
         width: 13
         height: 16
       alignment: 0
@@ -566,8 +566,8 @@ TextureImporter:
       name: frodo sam_18
       rect:
         serializedVersion: 2
-        x: 2
-        y: 1
+        x: 1
+        y: 0
         width: 13
         height: 16
       alignment: 0
@@ -587,8 +587,8 @@ TextureImporter:
       name: frodo sam_19
       rect:
         serializedVersion: 2
-        x: 19
-        y: 1
+        x: 17
+        y: 0
         width: 13
         height: 16
       alignment: 0
@@ -608,8 +608,8 @@ TextureImporter:
       name: frodo sam_20
       rect:
         serializedVersion: 2
-        x: 36
-        y: 1
+        x: 33
+        y: 0
         width: 13
         height: 16
       alignment: 0
@@ -629,8 +629,8 @@ TextureImporter:
       name: frodo sam_21
       rect:
         serializedVersion: 2
-        x: 53
-        y: 1
+        x: 49
+        y: 0
         width: 13
         height: 16
       alignment: 0
@@ -650,8 +650,8 @@ TextureImporter:
       name: frodo sam_22
       rect:
         serializedVersion: 2
-        x: 70
-        y: 1
+        x: 65
+        y: 0
         width: 13
         height: 16
       alignment: 0
@@ -671,8 +671,8 @@ TextureImporter:
       name: frodo sam_23
       rect:
         serializedVersion: 2
-        x: 87
-        y: 1
+        x: 81
+        y: 0
         width: 13
         height: 16
       alignment: 0
